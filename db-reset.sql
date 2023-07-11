@@ -1,0 +1,1 @@
+drop movie_db;
