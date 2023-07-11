@@ -1,1 +1,1 @@
-drop movie_db;
+drop database movie_db;
